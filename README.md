@@ -1,3 +1,4 @@
+解压后文件中包含readme文件，依据readme文件配置环境
 以下为OpenPCDet官方Readme
 # OpenPCDet
 
