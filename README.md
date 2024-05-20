@@ -1,7 +1,3 @@
-# OpenPCDdet-annotated-pointrcnn
-对OpenPCDdet框架中PointRCNN代码进行详细注释
-<img src="docs/open_mmlab.png" align="right" width="30%">
-
 以下为OpenPCDet官方Readme
 # OpenPCDet
 
